@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vimal
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and Software Developers
+- 🌱 I’m currently learning FullStack Development
+- 💞️ I’m looking to collaborate on Web and Software Developers
 - 📫 How to reach me vimal2409it@gmail.com
 
 <!---
